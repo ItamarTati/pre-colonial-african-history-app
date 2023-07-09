@@ -1,0 +1,7 @@
+{
+  "name": "pre-colonial-african-history-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
